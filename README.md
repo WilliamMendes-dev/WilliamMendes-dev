@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **IA projects.**
 
-- 👨‍💻 All of my projects are available [here.](https://github.com/WilliamSouza-dev)
+- 👨‍💻 All of my projects are available [here.](https://github.com/WilliamMendes-dev)
 
 - 📫 How to reach me **will_souza8@hotmail.com**
 
